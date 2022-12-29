@@ -10,6 +10,7 @@ Data was prepared using the following functions:
 - .str.replace
 - .astype
 Dropped the "th" from grades and made change the type from "object" to "int"
+
 ![Analysis1](Ananlysis1.png)
 
 ### Summarize the Data
@@ -18,6 +19,7 @@ Data was summarized by using the following functions:
 - .mean()
 - .min()
 We were able to find the statistics for the DataFrame, the average test score, and the lowest test score.
+
 ![Analysis2](Analysis2.png)
 
 ### Drill Down into the Data
@@ -25,6 +27,7 @@ The following fuctions were used to drill down the data and get more specifics o
 - .iloc
 - .loc
 We were able to locate the statistics for 9th Grade and find which student had the lowest reading score.
+
 ![Analysis3](Analysis3.png)
 
 ### Comparisons Between Public and Charter Schools
@@ -32,6 +35,7 @@ The following functions were used to compare the two school types.
 - .groupby()
 - .mean()
 We were able to find the school budget per school type and the average test scores per school type.
+
 ![Analysis4](Analysis4.png)
 
 ## Summary of Findings
