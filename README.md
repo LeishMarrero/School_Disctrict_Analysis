@@ -37,6 +37,8 @@ We were able to locate the statistics for 9th Grade and find which student had t
 The following functions were used to compare the two school types.
 - .groupby()
 - .mean()
+- .count()
+- .sort_values()
 
 We were able to find the school budget per school type and the average test scores per school type.
 
