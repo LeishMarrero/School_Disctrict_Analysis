@@ -26,8 +26,8 @@ We were able to find the statistics for the DataFrame, the average test score, a
 
 ### Drill Down into the Data
 The following fuctions were used to drill down the data and get more specifics on a grade and a school.
-- .iloc
-- .loc
+- .iloc()
+- .loc()
 
 We were able to locate the statistics for 9th Grade and find which student had the lowest reading score.
 
